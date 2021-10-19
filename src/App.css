@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  color: white;
+  padding: 1rem
+}
+
+.header {
+  font-size: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  color: #61dafb;
+  display: inline;
+  margin: 15px;
+}
+
+.main {
+  display: flex
+}
+
+.post-box {
+  height: 300px;
+  font-size: 0.6rem;
+  width: 700px;
+  padding: 5px 20px;
+  margin: 20px;
+  background-color: #3f4552;
+  overflow: hidden;
+}
+
+.post-box img {
+  height: 100px;
+}
+
