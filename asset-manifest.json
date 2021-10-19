@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MiryamOren-RecoLabs/Sanity-Demo/static/css/main.5e081159.chunk.css",
+    "main.js": "/MiryamOren-RecoLabs/Sanity-Demo/static/js/main.ac4ee396.chunk.js",
+    "main.js.map": "/MiryamOren-RecoLabs/Sanity-Demo/static/js/main.ac4ee396.chunk.js.map",
+    "runtime-main.js": "/MiryamOren-RecoLabs/Sanity-Demo/static/js/runtime-main.0f27de8c.js",
+    "runtime-main.js.map": "/MiryamOren-RecoLabs/Sanity-Demo/static/js/runtime-main.0f27de8c.js.map",
+    "static/js/2.61f4bcda.chunk.js": "/MiryamOren-RecoLabs/Sanity-Demo/static/js/2.61f4bcda.chunk.js",
+    "static/js/2.61f4bcda.chunk.js.map": "/MiryamOren-RecoLabs/Sanity-Demo/static/js/2.61f4bcda.chunk.js.map",
+    "index.html": "/MiryamOren-RecoLabs/Sanity-Demo/index.html",
+    "static/css/main.5e081159.chunk.css.map": "/MiryamOren-RecoLabs/Sanity-Demo/static/css/main.5e081159.chunk.css.map",
+    "static/js/2.61f4bcda.chunk.js.LICENSE.txt": "/MiryamOren-RecoLabs/Sanity-Demo/static/js/2.61f4bcda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f27de8c.js",
+    "static/js/2.61f4bcda.chunk.js",
+    "static/css/main.5e081159.chunk.css",
+    "static/js/main.ac4ee396.chunk.js"
+  ]
+}
